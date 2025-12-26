@@ -1,11 +1,12 @@
 # Constraint-Aware Task Scheduler
 
 ## Overview
-Constraint-Aware Task Scheduler models a real-world scheduling problem where tasks compete for limited time and must be completed before their deadlines.  
-The system selects an optimal subset of tasks such that the **maximum number of tasks are completed without violating deadline constraints**.
 
-This project focuses on **algorithmic reasoning, greedy decision-making, and correctness**, making it well-suited for early-stage engineering roles such as the **Google STEP Internship**.
+Constraint-Aware Task Scheduler models a classical real-world scheduling problem where tasks compete for limited time and must be completed before their deadlines.
 
+Each task is defined by a deadline and an execution duration. The system selects an optimal subset of tasks such that the maximum number of tasks are completed without violating deadline constraints.
+
+The project emphasizes algorithmic problem-solving, greedy decision-making, and correctness under constraints — skills that are fundamental to building efficient and reliable software systems.
 ---
 
 ## Problem Description
