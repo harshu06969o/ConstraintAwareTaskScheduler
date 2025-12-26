@@ -6,9 +6,9 @@ Constraint-Aware Task Scheduler models a classical real-world scheduling problem
 
 Each task is defined by a deadline and an execution duration. The system selects an optimal subset of tasks such that the maximum number of tasks are completed without violating deadline constraints.
 
-The project emphasizes algorithmic problem-solving, greedy decision-making, and correctness under constraints — skills that are fundamental to building efficient and reliable software systems.
----
+This project emphasizes algorithmic problem-solving, greedy decision-making, and correctness under constraints—core skills required to design efficient and reliable software systems.
 
+---
 ## Problem Description
 Each task is defined by:
 - a **deadline** (latest completion time)
